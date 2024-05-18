@@ -1,5 +1,5 @@
 """
-Author: Sydney Lybrand
+Author: MatPlotLib Website
 Date started: May 17, 2024
 Purpose: Initializing a file so that I will have something in this repository to practice with.
 
