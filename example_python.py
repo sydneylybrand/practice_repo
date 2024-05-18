@@ -1,7 +1,7 @@
 """
 Author: Sydney Lybrand
 Date started: May 17, 2024
-Purpose: Initiallizing a file so that I will have something in this repository to practice with.
+Purpose: Initializing a file so that I will have something in this repository to practice with.
 
 Example from:
 https://matplotlib.org/stable/gallery/lines_bars_and_markers/fill.html#sphx-glr-gallery-lines-bars-and-markers-fill-py
